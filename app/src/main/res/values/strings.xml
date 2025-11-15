@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">mangakomik</string>
+    <string name="app_name">MangaKomik</string>
+    <string name="app_title">Popular Manga</string>
+    <string name="score">Score</string>
+    <string name="members">Members</string>
+    <string name="synopsis_unavailable">No synopsis available.</string>
 </resources>

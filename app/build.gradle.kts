@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.mangakomik"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.mangakomik"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -28,11 +28,11 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
+        sourceCompatibility = JavaVersion.VERSION_17 // JADI 17
+        targetCompatibility = JavaVersion.VERSION_17 // JADI 17
     }
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17" // JADI 17
     }
     buildFeatures {
         compose = true
@@ -62,5 +62,11 @@ dependencies {
 
     // Alat untuk memuat gambar dari internet (Coil)
     implementation("io.coil-kt:coil-compose:2.6.0")
+
+    // Alat untuk ganti bahasa dengan mudah
+    implementation("androidx.appcompat:appcompat:1.6.1")
+
+    // Icon tambahan (untuk tombol matahari/bulan/globe)
+    implementation("androidx.compose.material:material-icons-extended:1.6.0")
 
 }
