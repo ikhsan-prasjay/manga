@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">MangaKomik</string>
     <string name="app_title">Komik Populer</string>
-    <string name="score">Nilai</string>
-    <string name="members">Pembaca</string>
-    <string name="synopsis_unavailable">Sinopsis tidak tersedia.</string>
+    <string name="status_ongoing">Berjalan</string>
+    <string name="status_completed">Tamat</string>
+    <string name="views_count">Dilihat</string>
+    <string name="rating">Nilai</string>
 </resources>

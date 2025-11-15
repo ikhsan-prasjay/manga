@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">MangaKomik</string>
     <string name="app_title">Popular Manga</string>
+    <string name="status_ongoing">Ongoing</string>
+    <string name="status_completed">Completed</string>
+    <string name="views_count">Views</string>
+    <string name="rating">Rating</string>
     <string name="score">Score</string>
-    <string name="members">Members</string>
-    <string name="synopsis_unavailable">No synopsis available.</string>
 </resources>
