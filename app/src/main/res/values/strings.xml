@@ -6,4 +6,11 @@
     <string name="views_count">Views</string>
     <string name="rating">Rating</string>
     <string name="score">Score</string>
+
+    <string name="synopsis_title">Synopsis</string>
+    <string name="synopsis_unavailable">Synopsis not available.</string>
+    <string name="chapter_list_title">Chapter List</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="read_action">Read</string>
+    <string name="chapter_dummy_title">The Beginning of Legend</string>
 </resources>

@@ -5,4 +5,12 @@
     <string name="status_completed">Tamat</string>
     <string name="views_count">Dilihat</string>
     <string name="rating">Nilai</string>
+    <string name="score">Skor</string>
+
+    <string name="synopsis_title">Ikhtisar</string>
+    <string name="synopsis_unavailable">Sinopsis belum tersedia.</string>
+    <string name="chapter_list_title">Daftar Bab</string>
+    <string name="add_favorite">Tambah Favorit</string>
+    <string name="read_action">Baca</string>
+    <string name="chapter_dummy_title">Awal Sebuah Legenda</string>
 </resources>
